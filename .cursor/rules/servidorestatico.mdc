@@ -1,0 +1,7 @@
+---
+description: esta rregla es para que la ia no cometa erroes
+globs:
+alwaysApply: false
+---
+
+- este servicio es un servidor estatico para poder guardar y entregar videos pode medio del la url
